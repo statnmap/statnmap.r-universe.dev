@@ -1,0 +1,31 @@
+[
+    {
+        "package": "cartomisc",
+        "url": "https://github.com/statnmap/cartomisc"
+    },
+    {
+        "package": "servers.tools",
+        "url": "https://github.com/statnmap/servers.tools"
+    },
+    {
+        "package": "SDMSelect",
+        "url": "https://github.com/statnmap/SDMSelect"
+    },
+    {
+        "package": "pdfreport",
+        "url": "https://github.com/statnmap/pdfreport"
+    },
+    {
+        "package": "HatchedPolygons",
+        "url": "https://github.com/statnmap/HatchedPolygons"
+    },
+    {
+        "package": "tweetrbot",
+        "url": "https://github.com/statnmap/tweetrbot"
+    },
+    {
+        "package": "GeoDist",
+        "url": "https://github.com/statnmap/GeoDist"
+    }
+]
+]
