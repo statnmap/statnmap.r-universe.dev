@@ -29,6 +29,7 @@
     },
     {
         "package": "parsermd",
-        "url": "https://github.com/statnmap/parsermd@no-c++"
+        "url": "https://github.com/statnmap/parsermd",
+        "branch": "nocpp"
     }
 ]
