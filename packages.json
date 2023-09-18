@@ -26,5 +26,9 @@
     {
         "package": "GeoDist",
         "url": "https://github.com/statnmap/GeoDist"
+    },
+    {
+        "package": "parsermd",
+        "url": "https://github.com/statnmap/parsermd@no-c++"
     }
 ]
